@@ -1,0 +1,34 @@
+[
+  {
+    "id": "l7wz2v9as",
+    "userId": "guest_يوسف",
+    "username": "يوسف",
+    "avatarUrl": "https://ui-avatars.com/api/?name=%D9%8A%D9%88%D8%B3%D9%81&background=0369a1&color=fff&bold=true",
+    "content": "هلا شباب",
+    "createdAt": "2026-07-19T09:04:18.098Z"
+  },
+  {
+    "id": "vjx31sull",
+    "userId": "guest_يوسف",
+    "username": "يوسف",
+    "avatarUrl": "https://ui-avatars.com/api/?name=%D9%8A%D9%88%D8%B3%D9%81&background=0369a1&color=fff&bold=true",
+    "content": "😢",
+    "createdAt": "2026-07-19T09:04:36.664Z"
+  },
+  {
+    "id": "fgt8j2bpv",
+    "userId": "guest_يوسف",
+    "username": "يوسف",
+    "avatarUrl": "https://ui-avatars.com/api/?name=%D9%8A%D9%88%D8%B3%D9%81&background=0369a1&color=fff&bold=true",
+    "content": "🔥",
+    "createdAt": "2026-07-19T09:04:41.377Z"
+  },
+  {
+    "id": "ovoyqq4mj",
+    "userId": "test_user",
+    "username": "Test User",
+    "avatarUrl": "https://ui-avatars.com/api/?name=Test%20User&background=0D8ABC&color=fff",
+    "content": "Hello, testing!",
+    "createdAt": "2026-07-19T09:13:34.945Z"
+  }
+]
